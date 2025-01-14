@@ -1,2 +1,4 @@
-libjpeg-dev
-zlib1g-dev
+libsm6
+libxext6
+libxrender1
+libglib2.0-0
